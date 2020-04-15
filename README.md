@@ -1,5 +1,8 @@
 # Airbnb New User Booking Challenge: an Ensembling-based Approach
 
+Project for the Advanced Machine Learning Course @ Unimib, Data Science MSC.
+Multi-class classification task through an ensembling approach.
+
 The notebooks follow the logical structure of the report:
 
 - Data Exploration
